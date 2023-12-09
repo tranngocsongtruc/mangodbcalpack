@@ -1,0 +1,50 @@
+/* styles.css */
+.top-bar {
+    background-color: #003262;
+    color: #FDB515;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .top-bar a {
+    color: #FDB515;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
+  .center-content {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .website-name {
+    font-family: 'Saira Stencil One', cursive;
+    font-size: 36px;
+    color: #003262;
+  }
+  
+  .mission-statement {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .buttons-container {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .buttons-container button {
+    background-color: #3B7EA1;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 0 10px;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+  }
+  

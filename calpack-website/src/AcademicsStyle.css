@@ -1,0 +1,42 @@
+/* CSS for the second image */
+
+.App-header {
+    background-color: #eeeeee; /* Replace with the actual color */
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .nav-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .nav-list li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: #333333; /* Replace with the actual color */
+  }
+  
+  .App-main {
+    display: flex;
+  }
+  
+  .grade-distribution {
+    flex: 1;
+    padding: 1rem;
+  }
+  
+  .campus-map img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .App-footer {
+    /* Footer styles if applicable */
+  }
+  

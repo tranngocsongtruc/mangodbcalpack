@@ -1,0 +1,65 @@
+/* CSS for the third image */
+
+.header {
+    background-color: #33334d; /* Replace with the actual color */
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .content {
+    display: flex;
+  }
+  
+  .sidebar {
+    background-color: #f3f3f3; /* Replace with the actual color */
+    width: 300px; /* Adjust as necessary */
+    padding: 1rem;
+  }
+  
+  .calendar .weekdays, .calendar .dates {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .calendar .date.selected {
+    background-color: #ffa500; /* Replace with the actual color */
+    color: white;
+  }
+  
+  .main-content {
+    flex: 1;
+    padding: 1rem;
+  }
+  
+  .event {
+    background-color: #dddddd; /* Replace with the actual color */
+    margin-bottom: 1rem;
+    padding: 1rem;
+  }
+  
+  .upcoming-dates {
+    margin-top: 2rem;
+  }
+  
+  .upcoming-dates h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .upcoming-dates ul {
+    list-style-type: none;
+    padding: 0;
+  }  
+
+  .upcoming-dates li {
+    background-color: #eeeeee; /* Replace with the actual color */
+    margin-bottom: 1rem;
+    padding: 1rem;
+  }
+  
+  .upcoming-dates .date {
+    font-weight: bold;
+  }
+  

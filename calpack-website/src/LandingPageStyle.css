@@ -1,0 +1,58 @@
+/* CSS for the first image */
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #004080; /* Replace with the actual color */
+    padding: 1rem;
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .nav-links li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .App-main {
+    background-color: #f0f0f0; /* Replace with the actual color */
+    padding: 2rem;
+  }
+  
+  .buttons button {
+    background-color: #ffa500; /* Replace with the actual color */
+    border: none;
+    padding: 1rem;
+    margin: 1rem;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .App-footer {
+    background-color: #002050; /* Replace with the actual color */
+    color: white;
+    padding: 1rem;
+  }
+  
+  .footer-links a, .social-media a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
